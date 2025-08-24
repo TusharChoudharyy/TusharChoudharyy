@@ -22,8 +22,9 @@
 
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharChoudharyy&theme=aqua&bg_color=0d1117&color=00ffff&line=00ffaa&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TusharChoudharyy&theme=high-contrast&bg_color=000000&color=39FF14&line=FF3131&point=FFFFFF&area=true&hide_border=true" />
 </p>
+
 
 
 
