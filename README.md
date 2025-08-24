@@ -55,9 +55,6 @@
 
 ---
 
-## 🚀 Projects
-- 🔗 [Project One](https://github.com/TusharChoudharyy/Project-One) – `1 done · 1 doing · 8 todo`  
-- 🔗 [Project Two](https://github.com/TusharChoudharyy/Project-Two) – `Active Development`  
 
 ---
 
